@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/convioo/static/css/main.2321bc1c.css",
+    "main.js": "/convioo/static/js/main.c69c08fc.js",
+    "static/js/787.00e54be3.chunk.js": "/convioo/static/js/787.00e54be3.chunk.js",
+    "static/media/RozhaOne-Regular.ttf": "/convioo/static/media/RozhaOne-Regular.0d92b47d70faf134e474.ttf",
+    "static/media/ecommerce.png": "/convioo/static/media/ecommerce.b3a293f70b239ffd3d68.png",
+    "static/media/marketing.png": "/convioo/static/media/marketing.99b985e65097533dbaaf.png",
+    "static/media/outreach.png": "/convioo/static/media/outreach.02ccb92d925afbe78290.png",
+    "static/media/saas.png": "/convioo/static/media/saas.7633945b8e2b28413d43.png",
+    "static/media/close.svg": "/convioo/static/media/close.5c07f3fc0ede782c9c04086a87321a99.svg",
+    "static/media/menu.svg": "/convioo/static/media/menu.cf54ff8e28c12b61459640e117a98921.svg",
+    "index.html": "/convioo/index.html",
+    "main.2321bc1c.css.map": "/convioo/static/css/main.2321bc1c.css.map",
+    "main.c69c08fc.js.map": "/convioo/static/js/main.c69c08fc.js.map",
+    "787.00e54be3.chunk.js.map": "/convioo/static/js/787.00e54be3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2321bc1c.css",
+    "static/js/main.c69c08fc.js"
+  ]
+}
