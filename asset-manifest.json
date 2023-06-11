@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/convioo/static/css/main.2321bc1c.css",
-    "main.js": "/convioo/static/js/main.c69c08fc.js",
+    "main.js": "/convioo/static/js/main.f070581c.js",
     "static/js/787.00e54be3.chunk.js": "/convioo/static/js/787.00e54be3.chunk.js",
     "static/media/RozhaOne-Regular.ttf": "/convioo/static/media/RozhaOne-Regular.0d92b47d70faf134e474.ttf",
     "static/media/ecommerce.png": "/convioo/static/media/ecommerce.b3a293f70b239ffd3d68.png",
@@ -12,11 +12,11 @@
     "static/media/menu.svg": "/convioo/static/media/menu.cf54ff8e28c12b61459640e117a98921.svg",
     "index.html": "/convioo/index.html",
     "main.2321bc1c.css.map": "/convioo/static/css/main.2321bc1c.css.map",
-    "main.c69c08fc.js.map": "/convioo/static/js/main.c69c08fc.js.map",
+    "main.f070581c.js.map": "/convioo/static/js/main.f070581c.js.map",
     "787.00e54be3.chunk.js.map": "/convioo/static/js/787.00e54be3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2321bc1c.css",
-    "static/js/main.c69c08fc.js"
+    "static/js/main.f070581c.js"
   ]
 }
