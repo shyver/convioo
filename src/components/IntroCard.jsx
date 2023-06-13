@@ -14,14 +14,14 @@ const IntroCard = (props) => {
       >
         <h1 className='font-sans min-[760px]:text-[64px] max-[760px]:text-[40px] max-[480px]:text-[25px]'>{props.title}</h1>
         </motion.div>
-        <motion.div key={"introTitle"}
+        <motion.div key={"introSubitle"}
         initial={{ opacity: 0 }} // Initial state of the component (hidden)
         animate={{ opacity: 1 }} // Animation to apply (fade in)
         transition={{ duration: 4 }} // Duration of the animation
       >
         <div className='w-full pb-8 flex justify-center'><h1 className='text-[16px] flex text-center'>Forge meaningful connections and strengthen business relationships by interacting face-to-face <br/>with your audience.</h1></div>
         </motion.div>
-        <motion.div key={"introTitle"}
+        <motion.div key={"introButtons"}
         initial={{ opacity: 0 }} // Initial state of the component (hidden)
         animate={{ opacity: 1 }} // Animation to apply (fade in)
         transition={{ duration: 2 }} // Duration of the animation

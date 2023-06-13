@@ -12,8 +12,8 @@ const Utilities = () => {
         Enhance user experience with video on every page and screen
         </h1>
         <div className='bg-black h-[62.8px] w-full flex rounded-[17.33px] flex-row justify-between items-center mb-[17.33px] px-2'>
-            {navLinks.map((Link)=>(
-          <div
+            {navLinks.map((Link, index)=>(
+          <div key={index}
           className={`${active===Link.title ? 'bg-[#3D4FE0]': 'bg-black'} text-white text-[18px] font-medium cursor-pointer px-4 py-3 flex rounded-[8.67px] flex-row gap-1 items-center h-[50px]`}
           onClick={()=>setActive(Link.title
             )}

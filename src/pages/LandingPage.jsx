@@ -1,11 +1,11 @@
-import './App.css';
+import '../App.css';
 
-import NavBar from './components/NavBar';
-import IntroCard from './components/IntroCard';
-import Utilities from './components/Utilities';
-import UseCases from './components/UseCases';
-import IntroSection from './components/IntroSection';
-function App() {
+import NavBar from '../components/NavBar';
+import IntroCard from '../components/IntroCard';
+import Utilities from '../components/Utilities';
+import UseCases from '../components/UseCases';
+import IntroSection from '../components/IntroSection';
+function LandingPage() {
   return (
     <div className='bg-[#F8F7F3] flex justify-center flex-col gap-8'>
     <NavBar />
@@ -31,4 +31,4 @@ function App() {
   );
 }
 
-export default App;
+export default LandingPage;

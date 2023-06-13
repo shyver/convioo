@@ -40,25 +40,8 @@ const Navbar = () => {
             <PrimaryButton
             value="Sign Up"
             path="/signup"
-            />
-            
-            
+            /> 
         </div>
-      {/* <ul className='list-none hidden sm:flex flex-row gap-10'>
-        {navLinks.map((Link)=>(
-          <li key={Link.id}
-          className={`${active===Link.title ? 'text-white': 'text-secondary'} hover:text-white text-[18px] font-medium cursor-pointer`}
-          onClick={()=>setActive(Link.title
-            )}
-          
-          >
-            <a href={`#${Link.id}`}>{Link.title}</a>
-          </li>
-
-        ))}
-      
-
-      </ul> */}
       <div className="sm:hidden flex flex-1
       justify-end items-center">
             <img 
@@ -84,34 +67,8 @@ const Navbar = () => {
             value="Sign Up"
             path="/signup"
             />
-            
-            
-            
         </div>
-        {/* {navLinks.map((Link)=>(
-          <li key={Link.id}
-          className={`${active===Link.title ? 'text-white': 'text-secondary'} font-poppins font-medium cursor-pointer text-[16px]`}
-          onClick={()=>{
-            setToggle(!toggle);
-            setActive(Link.title);
-          
-          
-          }
-          
-          
-          }
-          
-          >
-            <a href={`#${Link.id}`}>{Link.title}</a>
-          </li>
-
-        ))} */}
-      
-
-    
-
-
-            </div>
+        </div>
       </div>
       </div>
       </div>
@@ -119,5 +76,4 @@ const Navbar = () => {
     </nav>
   )
 }
-
 export default Navbar
