@@ -1,5 +1,5 @@
 import React, {useRef} from 'react'
-import { stroke } from '../assets';
+import { arrow } from '../assets';
 import { motion , useInView} from 'framer-motion';
 import { fadeIn } from '../utils/motion';
 
@@ -19,7 +19,7 @@ const UseCard = (props) => {
         <h1 className='font-sans text-white min-[760px]:text-[36px] max-[760px]:text-[20px] max-[480px]:text-[16px]  w-10/12 mb-[-10px]'>{props.title}</h1>
         <p className='text-[#C6C4B8] w-9/12 font-medium max-sm:hidden'>{props.description}</p>
         </div>
-        <img src={stroke} alt="stroke" className='w-[26.15px] h-[26.15px] '/>
+        <img src={arrow} alt="arrow" className='w-[26.15px] h-[26.15px] '/>
         </div>
         <div className={`h-full overflow-hidden flex items-${props.itemAlign}`}>
         <div className={props.imgStyle}>

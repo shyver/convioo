@@ -4,13 +4,13 @@ import React, {useState} from 'react'
 
 
 const PhoneCard = () => {
-  const [isPlaying, setIsPlaying] = useState(false);
-  const handlePlayClick = () => {
-    setIsPlaying(!isPlaying);
-    // Play the video programmatically
-    const videoElement = document.getElementById('video');
-    isPlaying ? videoElement.pause() :videoElement.play();
-  };
+  // const [isPlaying, setIsPlaying] = useState(false);
+  // const handlePlayClick = () => {
+  //   setIsPlaying(!isPlaying);
+  //   // Play the video programmatically
+  //   const videoElement = document.getElementById('video');
+  //   isPlaying ? videoElement.pause() :videoElement.play();
+  // };
   return (
     
     <div className='bg-white w-[332px] max-xs:w-[221.3px] h-[675px] max-xs:h-[450px] flex rounded-[28px]

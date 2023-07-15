@@ -28,7 +28,7 @@ const IntroCard = (props) => {
       >
         <div className='flex flex-row gap-1 relative'>
           <PrimaryButton value="Get Convioo for free"
-          path="/singup"
+          path="http://localhost:3001"
           /> 
           <SecondaryButton
           value="Contact Sales"
