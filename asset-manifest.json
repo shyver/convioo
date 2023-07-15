@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/convioo/static/css/main.b48d6437.css",
-    "main.js": "/convioo/static/js/main.b93e0cb7.js",
+    "main.css": "/convioo/static/css/main.5d95b4bb.css",
+    "main.js": "/convioo/static/js/main.acbb79ac.js",
     "static/js/787.00e54be3.chunk.js": "/convioo/static/js/787.00e54be3.chunk.js",
     "static/media/RozhaOne-Regular.ttf": "/convioo/static/media/RozhaOne-Regular.0d92b47d70faf134e474.ttf",
     "static/media/ecommerce.png": "/convioo/static/media/ecommerce.b3a293f70b239ffd3d68.png",
     "static/media/marketing.png": "/convioo/static/media/marketing.99b985e65097533dbaaf.png",
     "static/media/outreach.png": "/convioo/static/media/outreach.02ccb92d925afbe78290.png",
     "static/media/saas.png": "/convioo/static/media/saas.7633945b8e2b28413d43.png",
+    "static/media/logo.svg": "/convioo/static/media/logo.9925fa6b8532dc25cdbeb2948b95e7dc.svg",
+    "static/media/Stories.svg": "/convioo/static/media/Stories.a7e6d285ba2132b9426aaff8a5d3f1a7.svg",
     "static/media/close.svg": "/convioo/static/media/close.5c07f3fc0ede782c9c04086a87321a99.svg",
+    "static/media/SMS.svg": "/convioo/static/media/SMS.36d03dc7469daaaa7b19d08b94a1a615.svg",
     "static/media/menu.svg": "/convioo/static/media/menu.cf54ff8e28c12b61459640e117a98921.svg",
+    "static/media/LandingPage.svg": "/convioo/static/media/LandingPage.94c2f4f3b73e13260d0974dfef4773bd.svg",
+    "static/media/Carousel.svg": "/convioo/static/media/Carousel.b5e94bdeb95cf46d67d375b803ef6606.svg",
+    "static/media/Widget.svg": "/convioo/static/media/Widget.104049972f57c9cdd7a6234b5ffa8502.svg",
+    "static/media/emails.svg": "/convioo/static/media/emails.9ac735a76575412ca884ec7220db7235.svg",
     "index.html": "/convioo/index.html",
-    "main.b48d6437.css.map": "/convioo/static/css/main.b48d6437.css.map",
-    "main.b93e0cb7.js.map": "/convioo/static/js/main.b93e0cb7.js.map",
+    "static/media/arrow.svg": "/convioo/static/media/arrow.ccbed7998635fa745991c992feb3eb07.svg",
+    "main.5d95b4bb.css.map": "/convioo/static/css/main.5d95b4bb.css.map",
+    "main.acbb79ac.js.map": "/convioo/static/js/main.acbb79ac.js.map",
     "787.00e54be3.chunk.js.map": "/convioo/static/js/787.00e54be3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b48d6437.css",
-    "static/js/main.b93e0cb7.js"
+    "static/css/main.5d95b4bb.css",
+    "static/js/main.acbb79ac.js"
   ]
 }
