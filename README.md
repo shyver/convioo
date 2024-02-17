@@ -40,7 +40,9 @@ git clone https://github.com/shyver/convioo.git
 cd convioo
 ```
 2.Run the app in the development mode.
+
 run `npm start`
+
 Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
