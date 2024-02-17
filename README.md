@@ -1,8 +1,10 @@
 # Convioo - Customer Video Feedback Software
 
 Welcome to Convioo, a powerful customer video feedback software designed to enhance your user feedback experience.
-*this repository is for the landing page, see app repository at [convioo-app](https://github.com/shyver/convioo-app)
-This project is deplyed on github pages, [go check it out!](https://shyver.github.io/convioo/)
+
+this repository is for the landing page, see app repository at [convioo-app](https://github.com/shyver/convioo-app).
+
+This project is deplyed on github pages, [go check it out!](https://shyver.github.io/convioo/).
 
 ## Table of Contents
 - [About Convioo](#about-convioo)
@@ -36,6 +38,7 @@ Before you begin, ensure you have the following installed:
 ```bash
 git clone https://github.com/shyver/convioo.git
 cd convioo
+```
 2.Run the app in the development mode.
 run `npm start`
 Open http://localhost:3000 to view it in your browser.
