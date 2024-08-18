@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['RozhaOne-Regular', ...defaultTheme.fontFamily.sans],
+        sans: ['PlusJakartaSans', ...defaultTheme.fontFamily.sans],
      },
     },
     screens: {

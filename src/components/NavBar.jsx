@@ -6,7 +6,7 @@ import { motion } from 'framer-motion';
 const Navbar = () => {
   const [toggle,setToggle]=useState(false);
   return (
-    <nav className={`  w-full flex items-center py-2 px-[30px] fixed top-0 z-20 bg-primary bg-[#F8F7F3]/75`}>
+    <nav className={`  w-full flex items-center py-2 px-[30px] fixed top-0 z-20 bg-primary bg-white/75`}>
       <div className='w-full flex justify-between items-center mx-auto'>
       
       <motion.button
@@ -28,17 +28,15 @@ const Navbar = () => {
       
       </motion.button>
           <div className='flex flex-row gap-1 '>
-            <SecondaryButton 
-            value="Contact Sales"
-            />
+            
                   <div className='list-none hidden sm:flex flex-row gap-1'>
             <SecondaryButton 
-            value="Login"
+            value="Sign in"
             border={true}
             path="/login"
             />
             <PrimaryButton
-            value="Sign Up"
+            value="Create an account"
             path="/signup"
             /> 
         </div>
