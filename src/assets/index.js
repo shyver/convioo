@@ -12,4 +12,5 @@ import ecommerce from './ecommerce.png';
 import outreach from './outreach.png';
 import marketing from './marketing.png';
 import saas from './saas.png';
-export {logo,menu,close, widget,carousel,stories,landingPage,sms,emails,arrow,ecommerce, outreach,marketing,saas}
+import phoneMockup from './phoneMockup.png';
+export {logo,menu,close, widget,carousel,stories,landingPage,sms,emails,arrow,ecommerce, outreach,marketing,saas,phoneMockup}

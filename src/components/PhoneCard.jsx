@@ -3,7 +3,7 @@ import React, {useState} from 'react'
 
 
 
-const PhoneCard = () => {
+const PhoneCard = (props) => {
   // const [isPlaying, setIsPlaying] = useState(false);
   // const handlePlayClick = () => {
   //   setIsPlaying(!isPlaying);
@@ -13,10 +13,10 @@ const PhoneCard = () => {
   // };
   return (
     
-    <div className='bg-white w-[332px] max-xs:w-[221.3px] h-[675px] max-xs:h-[450px] flex rounded-[28px]
-    border-4 border-[#009b63] overflow-y-hidden relative
+    <div className={`bg-white ${props.width} max-xs:w-[221.3px] ${props.height} max-xs:h-[450px] flex rounded-[50px]
+    border-[8px] border-[#bcbcc2] overflow-y-hidden ${props.className}
     
-    '>
+    `}>
       {/* <video controlsList="nodownload" className='object-cover '
       id='video'
       style={{ outline: 'none', '-webkit-appearance': 'none' }}
