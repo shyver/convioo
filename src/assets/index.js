@@ -13,4 +13,5 @@ import outreach from './outreach.png';
 import marketing from './marketing.png';
 import saas from './saas.png';
 import phoneMockup from './phoneMockup.png';
-export {logo,menu,close, widget,carousel,stories,landingPage,sms,emails,arrow,ecommerce, outreach,marketing,saas,phoneMockup}
+import logoWhite from './logo_white.svg'
+export {logo,menu,close, widget,carousel,stories,landingPage,sms,emails,arrow,ecommerce, outreach,marketing,saas,phoneMockup,logoWhite}

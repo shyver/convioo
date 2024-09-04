@@ -10,6 +10,9 @@ import VideoPuzzlesAndFAQ from './components/VideoPuzzlesAndFAQ';
 import LiveForms from './components/LiveForms';
 import TestimonialCollectionAndEducation from './components/TestimonialCollectionAndEducation';
 import PersonalizedExperience from './components/PersonalizedExperience';
+import MockupSection from './components/MockupSection';
+import Testimonials from './components/Testimonials';
+import Footer from './components/Footer';
 function App() {
   return (
     <div className='bg-white flex justify-center flex-col gap-8'>
@@ -25,9 +28,12 @@ function App() {
     <LiveForms/>
     <TestimonialCollectionAndEducation/>
     <PersonalizedExperience/>
-    <Utilities/>
+    <MockupSection/>
+    <Testimonials/>
+    <Footer/>
+    {/* <Utilities/>
     <UseCases/>
-    <IntroCard title="Start for free"/>
+    <IntroCard title="Start for free"/> */}
 
     </div>
   );
